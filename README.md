@@ -1,5 +1,22 @@
 # Pinterest Real-Time Video Discovery Platform
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![Research Use Only](https://img.shields.io/badge/Use-Research%20Only-red.svg)]()
+[![Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-orange.svg)]()
+
+## ⚠️ Important License Notice
+
+**This software is licensed for RESEARCH and EDUCATIONAL use only.**
+
+- ❌ **NO COMMERCIAL USE** - Cannot be used for profit, commercial products, or business purposes
+- ❌ **NO MONETIZATION** - Cannot be sold, licensed commercially, or generate revenue
+- ✅ **RESEARCH PERMITTED** - Academic research, educational projects, personal learning
+- ✅ **NON-PROFIT USE** - Research institutions, educational organizations
+
+**For commercial licensing inquiries, please contact the author.**
+
+---
+
 ## Abstract
 
 This document presents a comprehensive enterprise-grade solution for real-time Pinterest video content discovery and extraction. The system implements advanced WebSocket streaming protocols, intelligent resource management, and production-level scalability features designed for high-throughput data processing applications.
