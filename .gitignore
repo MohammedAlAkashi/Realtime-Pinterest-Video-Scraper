@@ -1,0 +1,49 @@
+# Pinterest Video Discovery Platform - Public Repository
+
+# Logs
+*.log
+*.out
+
+# Documentation builds
+docs/_build/
+docs/site/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Private implementation files (not included in public release)
+main.py
+requirements.txt
+run_scraper.bat
+test_client.html
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Development notes
+README_PRIVATE.md
+DEVELOPMENT_NOTES.md
